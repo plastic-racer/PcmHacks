@@ -836,21 +836,26 @@ namespace PcmHacking
                 case 12589166:
                 case 12589312:
                 case 12589586:
+                case 12592070: //2004 Saturn Ion Redline 2.0L
                 case 12593533:
+                case 12596925: //2005 Saturn Ion Redline 2.0L
                 case 12597778:
-                case 12597978:
-                case 12601774:
-                case 12601904: // Saturn I4
-                case 12605256:
-                case 12605261:
-                case 12610624:
+                case 12597978: //2004 Saturn Ion Redline 2.0L
+                case 12598275: //2006 Chevy Cobalt SS 2.0L (Need to verify)
+                case 12598284: //2006 Saturn Ion Redline 2.0L
+                case 12601774: //2005 Chevy Cobalt SS 2.0L
+                case 12601904: //2005 Saturn Ion Redline 2.0L
+                case 12605256: //2006 Chevy Cobalt SS 2.0L
+                case 12605261: //2006 Chevy Cobalt SS 2.0L
+                case 12610624: //2007 Chevy Cobalt SS 2.0L & 2007 Saturn Ion Redline 2.0L
+                case 12610644: //GMS3 OS (Looks like 07 cobalt base OS modified to GMS3)
                 case 12623279:
                 case 12627882:
                 case 12627884:
                 case 12631085:
                 // LL8 - Atlas I6 (4200) P12
                 case 12604440:
-                case 12606400:
+                case 12606400: //2006 Chevy Trailblazer 4.2L
                 // L52 - Atlas I5 (3500) P12
                 case 12606374:
                 case 12606375:
@@ -872,7 +877,7 @@ namespace PcmHacking
                 // P12 2m - See: https://pcmhacking.net/forums/viewtopic.php?f=42&t=7742&start=470#p115747
                 case 12609805:
                 case 12611642:
-                case 12613422:
+                case 12613422: //2007 Chevy Trailblazer 4.2L
                 case 12618164:
                 case 12627885:
                     this.KernelFileName = "Kernel-P12.bin";
