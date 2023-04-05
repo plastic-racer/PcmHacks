@@ -848,7 +848,11 @@ namespace PcmHacking
                 case 12605256: //2006 Chevy Cobalt SS 2.0L
                 case 12605261: //2006 Chevy Cobalt SS 2.0L
                 case 12610624: //2007 Chevy Cobalt SS 2.0L & 2007 Saturn Ion Redline 2.0L
-                case 12610644: //GMS3 OS (Looks like 07 cobalt base OS modified to GMS3)
+                case 12610641: //GMS3 OS (04 Ion Redline GMS3)
+                case 12610642: //GMS3 OS (05 Ion Redline GMS3)
+                case 12610643: //GMS3 OS (06-07 Ion Redline GMS3)
+                case 12610644: //GMS3 OS (05 Cobalt SS GMS3)
+                case 12610645: //GMS3 OS (06-07 Cobalt SS GMS3)
                 case 12623279:
                 case 12627882:
                 case 12627884:
